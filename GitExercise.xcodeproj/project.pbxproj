@@ -11,6 +11,7 @@
 		D3BB58382A6E4ED6005B8D1C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BB58372A6E4ED6005B8D1C /* ContentView.swift */; };
 		D3BB583A2A6E4EDF005B8D1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3BB58392A6E4EDF005B8D1C /* Assets.xcassets */; };
 		D3BB583D2A6E4EDF005B8D1C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3BB583C2A6E4EDF005B8D1C /* Preview Assets.xcassets */; };
+		D3BB58442A6E516B005B8D1C /* gitexercises.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BB58432A6E516B005B8D1C /* gitexercises.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D3BB58372A6E4ED6005B8D1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D3BB58392A6E4EDF005B8D1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3BB583C2A6E4EDF005B8D1C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D3BB58432A6E516B005B8D1C /* gitexercises.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitexercises.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		D3BB58342A6E4ED6005B8D1C /* GitExercise */ = {
 			isa = PBXGroup;
 			children = (
+				D3BB58432A6E516B005B8D1C /* gitexercises.swift */,
 				D3BB58352A6E4ED6005B8D1C /* GitExerciseApp.swift */,
 				D3BB58372A6E4ED6005B8D1C /* ContentView.swift */,
 				D3BB58392A6E4EDF005B8D1C /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3BB58382A6E4ED6005B8D1C /* ContentView.swift in Sources */,
+				D3BB58442A6E516B005B8D1C /* gitexercises.swift in Sources */,
 				D3BB58362A6E4ED6005B8D1C /* GitExerciseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
